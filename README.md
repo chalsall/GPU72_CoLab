@@ -9,7 +9,8 @@ How to use:
    2. If not already, sign into your Google Account (upper right-hand corner).
    
    3. Click on the "Runtime" menu at the top of the Colabratory page, and choose "Change runtime type".
-   3.1. Make sure "Hardware accelerator" is set to "GPU".  Click Save.
+   
+      3.1. Make sure "Hardware accelerator" is set to "GPU".  Click Save.
 
    4. Enter the Access_Key given to you from GPU72, or a friend.  Leave blank to work anonymously.
    
